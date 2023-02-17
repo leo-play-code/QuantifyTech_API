@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "propane-primacy-378007",
+  "private_key_id": "c5a2aa00599605a3221858e0f7d314846184db07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEOX1qUa5BNnXC\nxpOWbbUffaUu9Cn/Jed9ASXOqJ0vbyF0ZzsNnMJ6GvGTNpskm9z7l66ByB4yGvwq\n6NytpmrRtEiNSqiGqgw4UY4EU5QyUle5eZiXUn+O07SFqlx8CC5Hj7wAbaK4ik7F\nkpCTco6qj+Mk2JoVof1Zcyualff1bpktvhXHCbI915CyAGnXxsHZxwgD993ndiia\nHWgyQ0NUHgZs6WiDKIMqh83P2LjMHGR1KtIb6wifWiescdfD4ER7HHrzbiOtfiYw\n0TdBLi1hBEGbI2/AkMORC7NLXZA2ltY1+q3VdirxGGwEpNrCcT8Dgy9MndE8PVIc\niuIZJPodAgMBAAECggEANbKf2g0BOTJclpE+CT/7fWMmZYuGxJ6MUz6RqJSm8zif\nuJmZZPe9lqmx6z3ZxfJrTmRranOno8GTuXBhF5o/iCSkaBoCtVtqnazfxtpSZ1T2\nUbjvY5W9d4oC0ENXLNAWThoM8jcOfR7IQLQDoX4Lgax/lfE6dWoPiT+FsreQlBaV\nus7/ZwYE5klF0s6E7SvN9cqU+bCs9jLQh/DuNTAmm8ZNJSElSuET/Q1n5iLwtshc\nsED2wLJy92BbCPTIDhpigm9rHaLVKw/vqczaXLNkXkThFCx51Xtcd1DoUwweepIY\n94x4O5Y3fYSmassOtKFNoQEUjCCFAhduHm7A+J+bxwKBgQDr8S2MJx4bk9ypYQIA\netMbiYyRm+46L5o6ZpzZqgkQCTlyp6YEpmhYAUYzz0Uog36loyWSux6TQV3Dtc4h\nMPgRD844Af7MplM42cXGMff1vWtU2JyfWRC2h/f6Fl/XTpY45JFadEwIimVoHB0Y\nQVaDeXE0MF+wHesamFapkrLbUwKBgQDU5+/dVdErC/Sba2VnSmYw2ZS22bGLWp+a\nxa1jyVV1tEQbtFR2jdD+Gldc/Jp1zUlMwtLPSbbm8vtvdPJzBeS3YundCgBh7YXM\n5DdITHy1lbgm2QsXt/fP2MLD+j1MjjWtnfUhRsPm1r/c6YBWVP9D8FlJaIXa6M0S\nU7k+PJGWzwKBgQCLPDmH0vHWjmyS3DeFNvZr8sEskJuGZN8cBcAcR1avyvHG8p5r\nchRzktTt8Cw821SaxOuAasKBXfrKavio57AMyYoFzU+jT6gfDYzECGru7whu+qF6\n++F8BkNVp2yJr8vA6UnJ2oWgKKPtS2H0FWLLlZgzlzRwx0cd27aQvYylFwKBgAsc\nP2wxekTgztb9d8E4JLUP5a7VFWrMQ9/zyOSYMRl/Wr6HXpEBPZLFFSIJHJZhLB4R\nXKbsldrfezeJxs0x1YmsY7/hMbvqhTz3+9qOA0QGmCGO2gFW3FvAWAmaGXDRSwPQ\nZmZiJv743fJNTSE0Nk35UO9/wNx3oZv/On+A8agJAoGABrWsKjEjdf/ginZ5BD1p\nN4ap2XXD3ZSqqiqbz+Tr4ajpcB8bZ6gYX2xxSdr34wNxz+EuSXrO38pkZSLK+I/4\npkVel0NZrVeby4efYrLsCHSrK2+EX6q667mEVK8lfDtNNIk/aF8rSnUhdyzM69Rh\ntQ+JCLaOHxsUOJ2kNCwlB0o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheetapi@propane-primacy-378007.iam.gserviceaccount.com",
+  "client_id": "110999698697137245484",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheetapi%40propane-primacy-378007.iam.gserviceaccount.com"
+}
